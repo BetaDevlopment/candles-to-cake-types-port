@@ -60,7 +60,7 @@ Put a candle on a cake and it becomes a different kind of cake. There are **12 c
 
 | Cake | Candle | Shape | Look | Candle visible? | Bedrock (Geyser) |
 |---|---|---|---|---|---|
-| **Cake with no Cherries** | *none* | Full cake | Plain white frosting with a swirl, no cherries | – | ✅ |
+| **Cake with no Cherries** | *none* | Full cake | Plain white frosting with a swirl, no cherries | - | ✅ |
 | **Cake with Cherries** | White | Full cake | White frosting with red cherries, classic sponge | No | ✅ |
 | **Small Cake** | Light gray | **Small** (half width, lower) | Mini cake with one cherry on top | No | ✅ real small shape |
 | **Double Cake** | Gray | **Two layers** | Big cake with a small cherry cake stacked on top | No | ✅ real two-layer shape |

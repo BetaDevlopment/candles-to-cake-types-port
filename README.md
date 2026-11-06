@@ -33,19 +33,51 @@ This is an **unofficial port** by **GalaxyModz** that brings the pack to:
 
 ## ✨ What does it do?
 
-Put a candle on a cake and it becomes a different kind of cake:
+Put a candle on a cake and it becomes a different kind of cake. There are **12 cakes** in total:
 
-| Candle | Cake | | Candle | Cake |
-|---|---|---|---|---|
-| *(none)* | Cake without cherries | | 🟫 Brown | Chocolate cake |
-| ⬜ White | Cherry cake | | 🟩 Lime | Mint chocolate cake |
-| ⬜ Light gray | **Small** cake | | 🟧 Orange | Carrot cake |
-| ⬛ Gray | **Two-layer** cake | | 🟨 Yellow | Golden carrot cake |
-| 🟦 Light blue | Blue birthday cake 🕯️ | | 🟥 Red | Red velvet cake |
-| 🩷 Pink | Pink birthday cake 🕯️ | | ⬛ Black | Cookies & cream cake |
+<table>
+<tr>
+<td align="center"><img src="images/cakes/no_candle.png" width="120"><br><b>Cake with no Cherries</b><br><sub>no candle</sub></td>
+<td align="center"><img src="images/cakes/white.png" width="120"><br><b>Cake with Cherries</b><br><sub>⬜ white candle</sub></td>
+<td align="center"><img src="images/cakes/light_gray.png" width="120"><br><b>Small Cake</b><br><sub>⬜ light gray candle</sub></td>
+<td align="center"><img src="images/cakes/gray.png" width="120"><br><b>Double Cake</b><br><sub>⬛ gray candle</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/cakes/brown.png" width="120"><br><b>Chocolate Cake</b><br><sub>🟫 brown candle</sub></td>
+<td align="center"><img src="images/cakes/lime.png" width="120"><br><b>Mint Chocolate Cake</b><br><sub>🟩 lime candle</sub></td>
+<td align="center"><img src="images/cakes/orange.png" width="120"><br><b>Carrot Cake</b><br><sub>🟧 orange candle</sub></td>
+<td align="center"><img src="images/cakes/yellow.png" width="120"><br><b>Golden Carrot Cake</b><br><sub>🟨 yellow candle</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/cakes/light_blue.png" width="120"><br><b>Blue Birthday Cake</b><br><sub>🟦 light blue candle</sub></td>
+<td align="center"><img src="images/cakes/pink.png" width="120"><br><b>Pink Birthday Cake</b><br><sub>🩷 pink candle</sub></td>
+<td align="center"><img src="images/cakes/red.png" width="120"><br><b>Red Velvet Cake</b><br><sub>🟥 red candle</sub></td>
+<td align="center"><img src="images/cakes/black.png" width="120"><br><b>Cookies and Cream Cake</b><br><sub>⬛ black candle</sub></td>
+</tr>
+</table>
 
-🕯️ The birthday cakes keep their candle. On all the other cakes the candle disappears and only the cake type shows.
-Other candle colors look like normal vanilla candle cakes.
+### 🍰 All cakes in detail
+
+| Cake | Candle | Shape | Look | Candle visible? | Bedrock (Geyser) |
+|---|---|---|---|---|---|
+| **Cake with no Cherries** | *none* | Full cake | Plain white frosting with a swirl, no cherries | – | ✅ |
+| **Cake with Cherries** | White | Full cake | White frosting with red cherries, classic sponge | No | ✅ |
+| **Small Cake** | Light gray | **Small** (half width, lower) | Mini cake with one cherry on top | No | ✅ real small shape |
+| **Double Cake** | Gray | **Two layers** | Big cake with a small cherry cake stacked on top | No | ✅ real two-layer shape |
+| **Chocolate Cake** | Brown | Full cake | Chocolate frosting with a swirl, chocolate sponge | No | ✅ |
+| **Mint Chocolate Cake** | Lime | Full cake | Chocolate top with mint pieces, mint drip down the sides | No | ✅ |
+| **Carrot Cake** | Orange | Full cake | Cream top with a carrot, layered orange sponge | No | ✅ |
+| **Golden Carrot Cake** | Yellow | Full cake | Cream top with a golden carrot, layered golden sponge | No | ✅ |
+| **Blue Birthday Cake** | Light blue | Full cake | Blue frosting ring and colorful sprinkles | **Yes** | ✅ (unlit) |
+| **Pink Birthday Cake** | Pink | Full cake | Pink frosting ring and colorful sprinkles | **Yes** | ✅ (unlit) |
+| **Red Velvet Cake** | Red | Full cake | Cream top with a red ring, red velvet sponge | No | ✅ |
+| **Cookies and Cream Cake** | Black | Full cake | White top with cookie pieces, cookies & cream sponge | No | ✅ |
+
+**Good to know**
+- 🕯️ The **birthday cakes** keep their candle on top. On all other cakes the candle disappears and only the cake type shows.
+- 🔥 **Lit candles:** lighting the candle turns any cake back into a normal candle cake. Blow it out and the cake type comes back.
+- 🎨 **Other colors** (cyan, purple, magenta, blue, green) look like normal vanilla candle cakes.
+- 🍽️ **Eating** works as normal: you get a slice and the candle drops.
 
 ## ⚙️ How does it work?
 

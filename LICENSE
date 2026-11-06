@@ -1,11 +1,16 @@
-MIT License
+Candles to Cake Types - Bedrock / Geyser port
 
+ORIGINAL CONTENT
+The original "Candles to Cake Types" resource pack, including all textures,
+the logo and the icon, is made by ARKK & ZAZ and is All Rights Reserved.
+https://modrinth.com/resourcepack/cake-types
+Those parts are NOT covered by the license below.
+
+GALAXYMODZ CONTENT - MIT License
 Copyright (c) 2026 GalaxyModz
 
-This license applies ONLY to the files in this repository (build script,
-Geyser mappings, Bedrock geometry and configuration). It does NOT apply to
-the original "Candles to Cake Types" textures and resource pack, which are
-All Rights Reserved by their creators (ARKK & ZAZ) and are not included here.
+This covers only the parts made by GalaxyModz: the Geyser custom block
+mappings, the Bedrock cake geometry and the pack configuration files.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

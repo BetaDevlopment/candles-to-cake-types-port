@@ -28,7 +28,7 @@ This is an **unofficial port** by **GalaxyModz** that brings the pack to:
 ## 📸 Showcase
 
 <p align="center">
-  <img src="images/showcase.png" alt="All cake types in game">
+  <img src="images/showcase1.png" alt="All cake types in game">
 </p>
 
 ## ✨ What does it do?
